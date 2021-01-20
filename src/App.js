@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <header className="App-header">
        <AmplifySignOut  />
-       <h1>hello world..</h1>
+       <h1>hello Neetesh..</h1>
       </header>
     </div>
   );
